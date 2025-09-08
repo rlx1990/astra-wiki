@@ -30,6 +30,15 @@ nav:
     - Dia Nevado: locais/dia-nevado.md
     - Barovia: locais/barovia.md
     - Templo dos Sonhos: locais/templo-sonhos-perdidos.md
+  - Classes:
+    - Sistema de Classes: classes/index.md
+    - Classes Exclusivas:
+      - Cronomante: classes/exclusivas/cronomante.md
+      - Vingador: classes/exclusivas/vingador.md
+      - Viajante Etéreo: classes/exclusivas/viajante.md
+      - Hemomante: classes/exclusivas/hemomante.md
+      - Invocador: classes/exclusivas/invocador.md
+      - Arconte da Vida: classes/exclusivas/arconte.md
 
 extra_css:
   - stylesheets/extra.css
