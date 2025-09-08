@@ -52,10 +52,10 @@ Explore as classes únicas de Astra:
 
 - [⏳ Cronomante](exclusivas/cronomante.md) - Mestre do tempo e destino
 - [⚔️ Vingador](exclusivas/vingador.md) - Justiceiro implacável  
-- [🌌 Viajante Etéreo](exclusivas/viajante-etereo.md) - Explorador dimensional
+- [🌌 Viajante Etéreo](exclusivas/viajante.md) - Explorador dimensional
 - [🩸 Hemomante](exclusivas/hemomante.md) - Manipulador de sangue vital
 - [🔮 Invocador](exclusivas/invocador.md) - Mestre das invocações
-- [💫 Arconte da Vida](exclusivas/arconte-vida.md) - Guardião da energia vital
+- [💫 Arconte da Vida](exclusivas/arconte.md) - Guardião da energia vital
 
 ---
 
