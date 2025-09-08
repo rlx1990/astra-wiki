@@ -38,19 +38,19 @@
 </div>
 
 ### Império Sindriano
-**Localização:** [Indique em qual quadrante(s)]
+**Localização:** 
 **Capital:** Sindra
 **Governante:** Dinastia Denariana
-**Características:** [Breve descrição]
+**Características:** 
 
 ### Igreja de Sarfa  
-**Localização:** [Indique em qual quadrante(s)]
+**Localização:** 
 **Liderança:** Hierarquia eclesiástica
-**Características:** [Breve descrição]
+**Características:** 
 
 ### Territórios Livres
-**Localização:** [Indique em qual quadrante(s)]
-**Características:** [Breve descrição]
+**Localização:** 
+**Características:** 
 
 <div style="text-align: center;">
     <h2>📌 Pontos de Interesse</h2>
