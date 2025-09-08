@@ -26,9 +26,9 @@ Bem-vindos à wiki oficial da campanha de RPG **Astra - Um Novo Amanhecer**. Est
 Esta wiki contém **spoilers** sobre o mundo de Astra. Alguns segredos são melhores descobrir durante as sessões de jogo!
 
 ### 📋 Status da Campanha
-- **Mestre**: [Seu Nome]
-- **Sistema**: [Sistema utilizado]
-- **Jogadores**: [Número] heróis destemidos
+- **Mestre**: Aegw
+- **Sistema**: D&D 5e
+- **Jogadores**: [6] heróis destemidos
 - **Estado**: Em andamento
 
 ---
