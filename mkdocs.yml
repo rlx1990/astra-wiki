@@ -1,0 +1,35 @@
+site_name: Astra - Um novo amanhecer
+
+theme:
+  name: material
+
+nav:
+  - Início: index.md
+  - O Mundo:
+    - História: mundo/historia.md
+    - Mapa: mundo/mapa.md  
+    - Panteão:
+      - Visão Geral: mundo/panteao/index.md
+      - Azure: mundo/panteao/azure.md
+      - Ifrit: mundo/panteao/ifrit.md
+      - Lumen: mundo/panteao/lumen.md
+      - Marcus: mundo/panteao/marcus.md
+      - Zana: mundo/panteao/zana.md
+  - NPCs:
+    - Visão Geral: npcs/index.md
+    - Aliados: 
+      - Todos os Aliados: npcs/aliados/index.md
+      - Drinas: npcs/aliados/drinas.md
+    - Vilões: npcs/viloes/index.md
+    - Neutros: npcs/neutros/index.md
+  - Crônicas:
+    - Ato 1: cronicas/ato-1.md
+    - Ato 2: cronicas/ato-2.md
+  - Locais:
+    - Visão Geral: locais/index.md
+    - Dia Nevado: locais/dia-nevado.md
+    - Barovia: locais/barovia.md
+    - Templo dos Sonhos: locais/templo-sonhos-perdidos.md
+
+extra_css:
+  - stylesheets/extra.css
